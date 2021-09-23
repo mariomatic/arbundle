@@ -1,0 +1,10 @@
+{
+  "name": "arbundle",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Mario Matić <emariomatic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "arbundles": "^0.2.7"
+  }
+}
